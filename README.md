@@ -27,3 +27,7 @@ To use the Secure Password Generator, simply open the `index.html` file in your 
 ## Contributing
 
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
+
+![image](https://github.com/Phillip-Sutton/finalProject/assets/148406483/6d6633b2-6a75-4108-a8d1-cda941c3dfce)
+
+
